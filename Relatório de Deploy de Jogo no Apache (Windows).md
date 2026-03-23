@@ -30,7 +30,8 @@ Após o download, o arquivo `.zip` foi descompactado em um diretório temporári
 
 **Captura de Tela 1: Download e Descompactação do Jogo**
 
-![Jogo 2048 funcionando em http://localhost](assets/download-apache-e-2048.png)(assets/decompact.png)
+![Arquivos do Jogo e Servidor](assets/download-apache-e-2048.png)
+![Jogo e Apache descompactados](assets/decompact.png)
 
 ### 3.2. Identificação
 
