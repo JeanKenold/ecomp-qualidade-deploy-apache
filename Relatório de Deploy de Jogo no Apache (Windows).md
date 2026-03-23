@@ -28,7 +28,7 @@ Foi selecionado o jogo **2048** para o deploy, devido à sua simplicidade e à n
 
 Após o download, o arquivo `.zip` foi descompactado em um diretório temporário, revelando a estrutura de arquivos HTML, CSS, JavaScript e recursos gráficos do jogo.
 
-**Captura de Tela 1: Download e Descompactação do Jogo**
+**Captura de Tela 1: Download e Descompactação do Jogo e Servidor**
 
 ![Arquivos do Jogo e Servidor](assets/download-apache-e-2048.png)
 ![Jogo e Apache descompactados](assets/decompact.png)
